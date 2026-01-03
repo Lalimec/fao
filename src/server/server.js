@@ -19,9 +19,9 @@ async function startServer() {
 
 	app.use(express.static(path.resolve(__dirname, '..', 'public')));
 
-	const prompts = await loadPrompts();
+	const promptsByLang = await loadPrompts();
 
-	console.log(`Prompts loaded. Counted ${prompts.length} prompts`);
+	console.log(`Prompts loaded for ${promptsByLang.length} languages`);
 
 	httpServer.listen(port, function() {
 		console.log(`httpServer listening on port ${port}`);

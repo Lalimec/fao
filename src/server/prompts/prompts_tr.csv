@@ -1,0 +1,424 @@
+hint,keyword
+Hayvan,Fener Baligi
+Hayvan,Karinca
+Hayvan,Armadillo
+Hayvan,Yarasa
+Hayvan,Kunduz
+Hayvan,Ari
+Hayvan,Boga
+Hayvan,Kelebek
+Hayvan,Deve
+Hayvan,Kedi
+Hayvan,Bukalemun
+Hayvan,Tavuk
+Hayvan,Midye
+Hayvan,Kobra
+Hayvan,Hamam Bocegi
+Hayvan,Inek
+Hayvan,Yengec
+Hayvan,Timsah
+Hayvan,Geyik
+Hayvan,Kopek
+Hayvan,Yunus
+Hayvan,Yusufcuk
+Hayvan,Fil
+Hayvan,Flamingo
+Hayvan,Kurbaga
+Hayvan,Zurafa
+Hayvan,Keci
+Hayvan,Keser Yengeci
+Hayvan,Su Aygiri
+Hayvan,At
+Hayvan,Denizanasi
+Hayvan,Kanguru
+Hayvan,Koala
+Hayvan,Ugur Bocegi
+Hayvan,Aslan
+Hayvan,Istakoz
+Hayvan,Maymun
+Hayvan,Sivrisinek
+Hayvan,Deniz Gergedani
+Hayvan,Nautilus
+Hayvan,Ahtapot
+Hayvan,Devekusu
+Hayvan,Baykus
+Hayvan,Tavus Kusu
+Hayvan,Pelikan
+Hayvan,Penguen
+Hayvan,Domuz
+Hayvan,Ornitorenk
+Hayvan,Peygamber Devesi
+Hayvan,Pterodaktil
+Hayvan,Tavsan
+Hayvan,Rakun
+Hayvan,Vatoz
+Hayvan,Gergedan
+Hayvan,Akrep
+Hayvan,Deniz Ati
+Hayvan,Kopekbaligi
+Hayvan,Koyun
+Hayvan,Karides
+Hayvan,Tembel Hayvan
+Hayvan,Salyangoz
+Hayvan,Orumcek
+Hayvan,Kalamar
+Hayvan,Sincap
+Hayvan,Geyik Bocegi
+Hayvan,Deniz Yildizi
+Hayvan,Stegozor
+Hayvan,Kugu
+Hayvan,Kilic Baligi
+Hayvan,T-Rex
+Hayvan,Triceratops
+Hayvan,Hindi
+Hayvan,Kaplumbaga
+Hayvan,Velociraptor
+Hayvan,Mors
+Hayvan,Balina
+Hayvan,Agackakan
+Etkinlik,Bebek Partisi
+Etkinlik,Dogum Gunu
+Etkinlik,Noel
+Etkinlik,Paskalya
+Etkinlik,Tutulma
+Etkinlik,Cenaze
+Etkinlik,Mezuniyet
+Etkinlik,Cadilar Bayrami
+Etkinlik,Hanuka
+Etkinlik,Pijama Partisi
+Etkinlik,Aziz Patrick Gunu
+Etkinlik,Sukran Gunu
+Etkinlik,Dugun
+Yiyecek/Icecek,Enginar
+Yiyecek/Icecek,Kuskonmaz
+Yiyecek/Icecek,Pastirma
+Yiyecek/Icecek,Muz
+Yiyecek/Icecek,Boba Cay
+Yiyecek/Icecek,Hamburger
+Yiyecek/Icecek,Pasta
+Yiyecek/Icecek,Havuc
+Yiyecek/Icecek,Peynir
+Yiyecek/Icecek,Hindistan Cevizi
+Yiyecek/Icecek,Misir
+Yiyecek/Icecek,Cupcake
+Yiyecek/Icecek,Dim Sum
+Yiyecek/Icecek,Yumurta
+Yiyecek/Icecek,Sarimsak
+Yiyecek/Icecek,Bal
+Yiyecek/Icecek,Sosisli Sandvic
+Yiyecek/Icecek,Dondurma
+Yiyecek/Icecek,Istakoz
+Yiyecek/Icecek,Martini
+Yiyecek/Icecek,Mantar
+Yiyecek/Icecek,Pankek
+Yiyecek/Icecek,Bezelye
+Yiyecek/Icecek,Biber
+Yiyecek/Icecek,Tursu
+Yiyecek/Icecek,Turta
+Yiyecek/Icecek,Ananas
+Yiyecek/Icecek,Pizza
+Yiyecek/Icecek,Meyveli Dondurma
+Yiyecek/Icecek,Balkabagi
+Yiyecek/Icecek,Kaburga
+Yiyecek/Icecek,Sandvic
+Yiyecek/Icecek,Karides
+Yiyecek/Icecek,Spagetti
+Yiyecek/Icecek,Cilek
+Yiyecek/Icecek,Sushi
+Yiyecek/Icecek,Taco
+Yiyecek/Icecek,Cay
+Yiyecek/Icecek,Domates
+Yiyecek/Icecek,Salgam
+Yiyecek/Icecek,Waffle
+Yiyecek/Icecek,Sarap
+Mutfak,Blender
+Mutfak,Suzgec
+Mutfak,Bulasik Rafı
+Mutfak,Buzdolabi
+Mutfak,Su Isitici
+Mutfak,Bicak Blogu
+Mutfak,Pilav Tenceresi
+Mutfak,Tuzluk
+Mutfak,Ocak
+Mutfak,Tost Makinesi
+Efsane,Uzayli
+Efsane,Sentor
+Efsane,Ejderha
+Efsane,Cuce
+Efsane,Elf
+Efsane,Peri
+Efsane,Hayalet
+Efsane,Grifon
+Efsane,Azrail
+Efsane,Kraken
+Efsane,Cuce Adam
+Efsane,Loch Ness
+Efsane,Deniz Kizi
+Efsane,Pegasus
+Efsane,Anka Kusu
+Efsane,Tek Boynuzlu At
+Efsane,Vampir
+Efsane,Kurt Adam
+Efsane,Cadi
+Efsane,Zombi
+Tibbi,Yarabandi
+Tibbi,Tansiyon Aleti
+Tibbi,Beyin
+Tibbi,Koltuk Degnegi
+Tibbi,Defibrilator
+Tibbi,Dis Teli
+Tibbi,Kalp
+Tibbi,Serum
+Tibbi,Kafatasi
+Tibbi,Stetoskop
+Tibbi,Sedye
+Tibbi,Siringa
+Tibbi,Termometre
+Tibbi,Tekerlekli Sandalye
+Tibbi,Rontgen
+Kiyafet,Sirt Cantasi
+Kiyafet,Beyzbol Sapkasi
+Kiyafet,Kemer
+Kiyafet,Onluk
+Kiyafet,Papyon
+Kiyafet,Kargo Sort
+Kiyafet,Asci Sapkasi
+Kiyafet,Crocs
+Kiyafet,Tac
+Kiyafet,Bebek Bezi
+Kiyafet,Kupe
+Kiyafet,Korsan Goz Bandi
+Kiyafet,Gozluk
+Kiyafet,Eldiven
+Kiyafet,Kep
+Kiyafet,Kulaklik
+Kiyafet,Topuklu Ayakkabi
+Kiyafet,Ceket
+Kiyafet,Tek Camli Gozluk
+Kiyafet,Tulum
+Kiyafet,El Cantasi
+Kiyafet,Atki
+Kiyafet,Spor Ayakkabi
+Kiyafet,Corap
+Kiyafet,Sombrero
+Kiyafet,Takim Elbise
+Kiyafet,Cuzdan
+Kiyafet,Kol Saati
+Kisi,Aktor
+Kisi,Sanatci
+Kisi,Astronot
+Kisi,Bebek
+Kisi,Cocuk Bakicisi
+Kisi,Berber
+Kisi,Barmen
+Kisi,Fedai
+Kisi,Kasiyer
+Kisi,Asci
+Kisi,Palyaco
+Kisi,Kovboy
+Kisi,Dis Doktoru
+Kisi,Yonetmen
+Kisi,DJ
+Kisi,Doktor
+Kisi,Hasereci
+Kisi,Ciftci
+Kisi,Itfaiyeci
+Kisi,Jimnastikci
+Kisi,Temizlikci
+Kisi,Hakim
+Kisi,Sovalye
+Kisi,Sihirbaz
+Kisi,Postaci
+Kisi,Tamirci
+Kisi,Muzisyen
+Kisi,Ninja
+Kisi,Korsan
+Kisi,Tesisatci
+Kisi,Polis
+Kisi,Programci
+Kisi,Protestocu
+Kisi,Resepsiyonist
+Kisi,Hirsiz
+Kisi,Kraliyet
+Kisi,Samuray
+Kisi,Bilim Insani
+Kisi,Keskin Nisanci
+Kisi,Ogretmen
+Kisi,Terapist
+Kisi,Garson
+Yer,Havalimani
+Yer,Lunapark
+Yer,Oyun Salonu
+Yer,Sanat Muzesi
+Yer,Avustralya
+Yer,Banka
+Yer,Banyo
+Yer,Plaj
+Yer,Kanada
+Yer,Kumarhane
+Yer,Magara
+Yer,Cin
+Yer,Kilise
+Yer,Sirk
+Yer,Sehir
+Yer,Mahkeme Salonu
+Yer,Col
+Yer,Misir
+Yer,Fabrika
+Yer,Ciftlik
+Yer,Orman
+Yer,Benzin Istasyonu
+Yer,Mezarlik
+Yer,Market
+Yer,Spor Salonu
+Yer,Perili Ev
+Yer,Hastane
+Yer,Otel
+Yer,Ev
+Yer,Hindistan
+Yer,Italya
+Yer,Japonya
+Yer,Kutuphane
+Yer,Meksika
+Yer,Maden
+Yer,Okyanus
+Yer,Otopark
+Yer,Oyun Parki
+Yer,Havuz
+Yer,Liman
+Yer,Hapishane
+Yer,Restoran
+Yer,Okul
+Yer,Uzay
+Yer,Stadyum
+Yer,Metro
+Yer,Tiyatro
+Yer,ABD
+Yer,Hayvanat Bahcesi
+Aktivite,Amerikan Futbolu
+Aktivite,Okculuk
+Aktivite,Badminton
+Aktivite,Beyzbol
+Aktivite,Basketbol
+Aktivite,Bisiklet
+Aktivite,Bilardo
+Aktivite,Bovling
+Aktivite,Boks
+Aktivite,Kamp
+Aktivite,Atlikarinca
+Aktivite,Satranc
+Aktivite,Koro
+Aktivite,Cizgi Roman
+Aktivite,Disko
+Aktivite,Eskrim
+Aktivite,Balik Tutma
+Aktivite,Frizbi
+Aktivite,Golf
+Aktivite,Yuruyus
+Aktivite,Hokey
+Aktivite,Binicilik
+Aktivite,Avcilik
+Aktivite,Mizrak Oyunu
+Aktivite,Ucurtma
+Aktivite,Dovus Sanatlari
+Aktivite,Sinema
+Aktivite,Resim Yapma
+Aktivite,Parasut
+Aktivite,Langirt
+Aktivite,Sirikla Atlama
+Aktivite,Kaya Tirmanisi
+Aktivite,Lunapark Treni
+Aktivite,Dalis
+Aktivite,Kaykay
+Aktivite,Kayak
+Aktivite,Serbest Dalis
+Aktivite,Futbol
+Aktivite,Sorf
+Aktivite,Masa Tenisi
+Aktivite,Tenis
+Aktivite,Karnidan Konusma
+Aktivite,Video Oyunlari
+Aktivite,Voleybol
+Aktivite,Yoyo
+Aktivite,Yoga
+Teknoloji,Pil
+Teknoloji,Top
+Teknoloji,Kamera
+Teknoloji,Bilgisayar
+Teknoloji,Vantilotor
+Teknoloji,Asansor
+Teknoloji,Dinamit
+Teknoloji,El Bombasi
+Teknoloji,Tabanca
+Teknoloji,Klavye
+Teknoloji,Lamba
+Teknoloji,Dizustu Bilgisayar
+Teknoloji,Lav Lambasi
+Teknoloji,Cim Bicme Makinesi
+Teknoloji,Ampul
+Teknoloji,Fare
+Teknoloji,Priz
+Teknoloji,Uzatma Kablosu
+Teknoloji,Yazici
+Teknoloji,Radyo
+Teknoloji,Uydu
+Teknoloji,Dikis Makinesi
+Teknoloji,Telefon
+Teknoloji,Telefon Diregi
+Teknoloji,Televizyon
+Teknoloji,Elektrik Supurgesi
+Teknoloji,Su Sebili
+Teknoloji,Wi-Fi
+Alet,Balta
+Alet,Durbun
+Alet,Kova
+Alet,Hesap Makinesi
+Alet,Motorlu Testere
+Alet,Pusula
+Alet,El Feneri
+Alet,Gaz Maskesi
+Alet,Cekic
+Alet,Kelepce
+Alet,Matkap
+Alet,El Testeresi
+Alet,Metre
+Alet,Mikroskop
+Alet,Fare Kapani
+Alet,Firca
+Alet,Kalem
+Alet,Kalemtras
+Alet,Makas
+Alet,Tornavida
+Alet,Zimba
+Alet,Bant
+Alet,Teleskop
+Alet,Semsiye
+Alet,Cirpici
+Alet,Duduk
+Tasit,Ucak
+Tasit,Ambulans
+Tasit,Bisiklet
+Tasit,Zeplin
+Tasit,Tekne
+Tasit,Buldozer
+Tasit,Otobus
+Tasit,Araba
+Tasit,Savar
+Tasit,Kopek Kizagi
+Tasit,Itfaiye Araci
+Tasit,Helikopter
+Tasit,Sicak Hava Balonu
+Tasit,Motosiklet
+Tasit,Karavan
+Tasit,Scooter
+Tasit,Teleferik
+Tasit,Uzay Gemisi
+Tasit,Bebek Arabasi
+Tasit,Denizalti
+Tasit,Tank
+Tasit,Traktor
+Tasit,Tren
+Tasit,Kamyon
+Tasit,UFO
+Tasit,Tek Tekerlekli Bisiklet
+Tasit,El Arabasi

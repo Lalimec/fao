@@ -107,3 +107,41 @@ input[type="number"] {
 		}
 	}
 }
+
+.language-selector {
+	margin: 12px 0;
+
+	label {
+		display: block;
+		margin-bottom: 8px;
+		font-weight: 500;
+		color: var(--grey6);
+	}
+
+	.language-buttons {
+		display: flex;
+		justify-content: center;
+		gap: 8px;
+	}
+
+	.language-btn {
+		min-width: 100px;
+		padding: 0 12px;
+		line-height: 36px;
+		font-size: 14px;
+		background-color: var(--grey0);
+		color: var(--grey5);
+		border-color: var(--grey3);
+
+		&:hover {
+			border-color: var(--artist3);
+			color: var(--artist4);
+		}
+
+		&.active {
+			background-color: var(--artist4);
+			color: var(--grey0);
+			border-color: var(--artist4);
+		}
+	}
+}

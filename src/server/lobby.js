@@ -49,14 +49,14 @@ function isFull() {
 	}
 	return false;
 }
-function createRoom() {
+function createRoom(language = 'en') {
 	if(isFull()) {
 		return undefined;
 	}
 	let code = generateUniqueRoomCode();
-	let rm = new GameRoom(code);
+	let rm = new GameRoom(code, undefined, language);
 	rooms.set(code, rm);
-	console.log(`Rm${rm.roomCode} created. Room count: ${rooms.size}`);
+	console.log(`Rm${rm.roomCode} created (lang: ${language}). Room count: ${rooms.size}`);
 	return rm;
 }
 

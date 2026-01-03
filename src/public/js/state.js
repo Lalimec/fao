@@ -12,6 +12,7 @@ const Store = {
 	state: {
 		username: localStorage.username || '',
 		sfxDisabled: localStorage.sfxDisabled === 'true',
+		language: localStorage.language || 'en',
 		view: VIEW.HOME,
 		previousView: VIEW.HOME,
 		gameState: undefined,
@@ -22,6 +23,10 @@ const Store = {
 	setUsername(username) {
 		this.state.username = username;
 		localStorage.username = username;
+	},
+	setLanguage(language) {
+		this.state.language = language;
+		localStorage.language = language;
 	},
 	toggleSfx() {
 		this.state.sfxDisabled = !this.state.sfxDisabled;
@@ -134,12 +139,13 @@ handleSocket(MESSAGE.RETURN_TO_SETUP);
 
 const usernameValidationWarning =
 	'Username must be 1-15 characters long, and can only contain alphanumerics and spaces';
-function submitCreateGame(username) {
+function submitCreateGame(username, language) {
 	username = username.trim();
 	if (validateUsername(username)) {
 		this.setWarning('createWarning', undefined);
 		socket.emit(MESSAGE.CREATE_ROOM, {
 			username: username,
+			language: language || this.state.language,
 		});
 		return true;
 	} else {

@@ -30,6 +30,28 @@
 					maxlength="15"
 				/>
 				<div style="clear: both"></div>
+				<div class="language-selector">
+					<label>Language:</label>
+					<div class="language-buttons">
+						<button
+							type="button"
+							class="btn language-btn"
+							:class="{ active: store.language === 'en' }"
+							@click="setLanguage('en')"
+						>
+							English
+						</button>
+						<button
+							type="button"
+							class="btn language-btn"
+							:class="{ active: store.language === 'tr' }"
+							@click="setLanguage('tr')"
+						>
+							Turkce
+						</button>
+					</div>
+				</div>
+				<div style="clear: both"></div>
 				<div class="form-actions">
 					<button
 						type="button"
@@ -123,8 +145,11 @@ export default {
 		gotoFaq() {
 			Store.setView(VIEW.FAQ);
 		},
+		setLanguage(lang) {
+			Store.setLanguage(lang);
+		},
 		createGame() {
-			Store.submitCreateGame(Store.state.username);
+			Store.submitCreateGame(Store.state.username, Store.state.language);
 		},
 		joinGame() {
 			Store.submitJoinGame(Store.state.roomCode, Store.state.username);

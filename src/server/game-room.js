@@ -8,10 +8,11 @@ import * as Prompts from './prompts/prompts-api.js';
 const MAX_USERS = 10;
 
 class GameRoom {
-	constructor(roomCode, host) {
+	constructor(roomCode, host, language = 'en') {
 		this.roomCode = roomCode;
 		this.users = [];
 		this.host = host;
+		this.language = language;
 
 		this.round = 0;
 		this.phase = GAME_PHASE.SETUP;
@@ -59,12 +60,12 @@ class GameRoom {
 		this.shuffleUsers();
 		this.phase = GAME_PHASE.PLAY;
 		this.turn = 1;
-		let prompt = Prompts.getRandomPrompt(); // TODO ensure no duplicate prompt
+		let prompt = Prompts.getRandomPrompt(this.language); // TODO ensure no duplicate prompt
 		this.keyword = prompt.keyword;
 		this.hint = prompt.hint;
 		this.faker = Util.randomItemFrom(this.users);
 		this.strokes = [];
-		console.log(`Rm${this.roomCode} New round ${this.round}`);
+		console.log(`Rm${this.roomCode} New round ${this.round} (lang: ${this.language})`);
 	}
 	invokeSetup() {
 		console.log(`Rm${this.roomCode} Force setup`);
@@ -130,6 +131,7 @@ const ClientAdapter = {
 			hint: gameRoom.hint,
 			fakerName: gameRoom.faker ? gameRoom.faker.name : undefined,
 			strokes: gameRoom.strokes,
+			language: gameRoom.language,
 		};
 		if (pickFields) {
 			res = _.pick(res, pickFields);
